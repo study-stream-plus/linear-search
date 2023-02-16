@@ -8,13 +8,13 @@
 - [Watch the free video tutorial on the StudyStream+ YouTube channel](https://youtu.be/u46nNK4lmeE)
 
 ## Usage
-```php
+```
 python .\main.py
 ```
 
 ## Expected Result
 
-```php
+```
 Found at 6
 ```
 
